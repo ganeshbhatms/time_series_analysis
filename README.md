@@ -1,1 +1,3 @@
 # time_series_analysis
+
+Time series analysis of heathcare dataset consisting of average admission time of different kinds of patients using python.
